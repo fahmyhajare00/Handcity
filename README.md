@@ -1,6 +1,5 @@
 # Handcity
 Projet web full stack-CMC BMK
 
+Ce dépôt contient tout le code et la documentation pour contribuer au projet et le déployer facilement.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
